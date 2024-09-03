@@ -129,9 +129,13 @@ dmypy.json
 .pyre/
 
 # data
-data/curated/
-data/raw/
-data/landing/
+#data/curated/
+#data/raw/
+#data/landing/
 
 # OSX .DS_Store file
 .DS_Store
+
+# Large Files
+data/landing/VMPROP/*
+
