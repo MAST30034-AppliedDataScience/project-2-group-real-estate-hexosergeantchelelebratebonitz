@@ -1,10 +1,10 @@
 ## Project 2 Meeting 1 Minutes
 Minutes (20/08/2024 2:45pm)
 ## Attendees:
-- Julian Bonitz (1067373)
-- Can Senyurt (1079752)
-- Michele Sembiring Melissa (1342923)
-- Aarav Nair (1287210)
+1. Julian Bonitz (1067373)
+2. Can Senyurt (1079752)
+3. Michele Sembiring Meliala (1342923)
+4. Aarav Nair (1287210)
 ## Agenda:
 - Which project to undertake?
 - General Timeline
