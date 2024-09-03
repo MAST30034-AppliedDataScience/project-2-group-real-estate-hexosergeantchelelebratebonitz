@@ -3,7 +3,9 @@ from urllib.request import urlretrieve
 import os
 import zipfile
 
-output_relative_dir = '../../data/'
+# Mixed results with the following two lines, think its a linux vs windows thing
+# output_relative_dir = '../../data/'
+output_relative_dir = 'data/'
 
 # check if it exists as it makedir will raise an error if it does exist
 if not os.path.exists(output_relative_dir):
@@ -29,4 +31,7 @@ print(f"Unzipping {shapefile_output}")
 with zipfile.ZipFile(shapefile_output, 'r') as zip_ref:
     zip_ref.extractall(output_relative_dir + 'landing/')
 
-print(f"Download and zip completed at: {shapefile_output + 'landing/GDA2020/'}")
+print(f"Deleting {shapefile_output}...")
+os.remove(shapefile_output)
+
+print(f"Download and zip completed at: {output_relative_dir + 'landing/GDA2020/'}")
