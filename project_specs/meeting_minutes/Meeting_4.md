@@ -21,11 +21,11 @@ Minutes (10/09/2024 Tuesday 2:15pm)
 * start listing out the features that make a property more expensive or sought after
 
 ## Signed: 
-All members were present on Tuesday 10/09/2024:
+Members present on Tuesday 10/09/2024:
 1. Julian Bonitz (1067373)
 2. Michele Sembiring Meliala (1342923)
 
-Members not present (sick)
+Members not present (sick and not feeling well):
 1. Aarav Nair (1287210)
 2. Can Senyurt (1079752)
 
