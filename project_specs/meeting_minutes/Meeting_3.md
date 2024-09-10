@@ -8,13 +8,14 @@ Minutes (03/09/2024 Tuesday 2:15pm)
 4. Aarav Nair (1287210)
 
 ## Agenda:
-• Received our shapefile data https://s3.ap-southeast-2.amazonaws.com/cl-isd-prd-datashare-s3-delivery/Order_MUYRC6.zip from DataShare VIC https://datashare.maps.vic.gov.au/ 
-    - Might look on other shapefile data available since our map consist of roads and psotcodes (irrelevant to our project)
+• Shapefile data obtained from Australian Government https://data.gov.au/dataset/ds-dga-af33dd8c-0534-4e18-9245-fc64440f742e/details 
+    - We had to discard our previous shapefile from last week, due to irrelevant features like roads and postcodes (Spatial DataShare, https://s3.ap-southeast-2.amazonaws.com/cl-isd-prd-datashare-s3-delivery/Order_MUYRC6.zip)
 • Decided on 4 external datasets choices: public transport (ptv), school, supermarkets, hospital 
 
 ## Project Task Allocation:
-• Can and Michele: decide which shapefiles to use by running map of each 
-• Julian and Aarav: scrape API of domain estate
+• Can and Michele: map victoria shapefile 
+• Julian and Aarav: finished scraping all required data from domain estate
+• All: decide on sufficient features and properties 
 
 ## Signed: 
 All members were present on Tuesday 03/09/2024:

@@ -138,4 +138,5 @@ dmypy.json
 
 # Large Files
 data/landing/VMPROP/*
-
+*.zip
+data/landing/GDA2020/
