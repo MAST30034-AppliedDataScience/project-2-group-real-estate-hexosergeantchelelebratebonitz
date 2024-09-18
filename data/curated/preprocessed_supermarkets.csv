@@ -2,20 +2,17 @@ Supermarket,Latitude,Longitude,Suburb,Postcode,Address
 IGA,-37.2773622,144.7338613,No Suburb,No Postcode,
 Coles,-37.7914336,145.1718422,No Suburb,No Postcode,55 Tunstall Square
 Foodworks,-37.7889872,144.9760904,No Suburb,No Postcode,799 Nicholson Street
-The Old Farm Market,48.4379459,-123.3124029,No Suburb,No Postcode,Cadboro Bay Road
 Coles,-37.8547864,145.1826504,No Suburb,No Postcode,495-511 Burwood Highway
 Coles,-37.8682575,145.240404,No Suburb,No Postcode,
 Coles,-37.83496,145.1643348,No Suburb,No Postcode,
 Woolworths,-37.8358294,145.1644531,No Suburb,No Postcode,
 Coles,-38.3614651,144.8921554,No Suburb,No Postcode,
 Coles,-37.794199,145.2791738,Croydon,3136,5-15 Kent Avenue
-Thrifty Foods,48.4448869,-123.338159,No Suburb,V8T 4Y3,1580 Hillside Avenue
 IGA,-36.7508127,145.5710032,Euroa,3666,75 Binney Street
 Coles,-37.9208945,145.2375525,No Suburb,No Postcode,1101 Stud Road
 Coles,-37.8855399,145.0845484,No Suburb,No Postcode,
 Woolworths,-37.887188,145.0842821,No Suburb,No Postcode,1341 Dandenong Road
 ALDI,-37.8863767,145.0839366,No Suburb,No Postcode,1341 Dandenong Road
-Pepper's Foods,48.4609521,-123.296921,Victoria,V8N 4G1,3829 Cadboro Bay Road
 Coles,-37.8747789,144.6794291,No Suburb,No Postcode,250 Heaths Road
 Woolworths,-37.7981407,144.9683576,No Suburb,No Postcode,
 Coles,-37.8535375,145.1487011,No Suburb,No Postcode,172-210 Burwood Highway
@@ -30,7 +27,6 @@ Coles,-37.6856825,144.5657612,No Suburb,No Postcode,533-555 High Street
 Woolworths,-37.6855804,144.5669149,No Suburb,No Postcode,
 Psarakos Market,-37.7597746,145.0007011,No Suburb,No Postcode,
 Coles,-37.8612829,145.2875436,No Suburb,No Postcode,
-Fairway Market Athlone Court,48.4263755,-123.3164599,No Suburb,V8R 1G1,2187 Oak Bay Avenue
 Woolworths,-37.7601449,145.3494123,No Suburb,No Postcode,
 Woolworths,-37.8784183,145.1276618,No Suburb,No Postcode,
 Ritchie's IGA,-37.8763513,145.1285091,No Suburb,No Postcode,
@@ -62,14 +58,12 @@ Dargo General Store,-37.4614389,147.2508422,No Suburb,No Postcode,
 Coles,-37.8952497,144.7530363,No Suburb,No Postcode,300 Point Cook Road
 Coles,-37.7869266,145.1257942,No Suburb,No Postcode,619 Doncaster Road
 Woolworths,-37.7869012,145.1264487,No Suburb,No Postcode,
-The Root Cellar Village Green Grocer,48.4139119,-123.356505,Victoria,V8V 3X4,271 Cook Street
 Woolworths,-37.8628805,145.0271098,No Suburb,No Postcode,
 Woolworths,-37.7070041,144.9387874,No Suburb,No Postcode,
 Coles,-38.0686164,145.3007558,No Suburb,No Postcode,400 Cranbourne Road
 IGA,-37.029562,145.1463322,No Suburb,No Postcode,
 Woolworths,-38.3138184,146.4201968,No Suburb,No Postcode,
 Richies IGA Churchill,-38.3121751,146.4210208,No Suburb,No Postcode,
-South Emerald Supermarket,14.2073344,121.3496857,Victoria,4011,National Highway
 Coles,-37.6508313,145.0687423,No Suburb,No Postcode,
 Woolworths,-37.6520545,145.0741496,No Suburb,No Postcode,
 Woolworths,-36.3882462,145.4245579,No Suburb,No Postcode,
@@ -175,7 +169,6 @@ Lucky 7,-37.5811826,144.7145268,No Suburb,No Postcode,
 Woolworths,-37.8992104,144.662848,No Suburb,No Postcode,
 Woolworths,-38.1370122,144.3477524,No Suburb,No Postcode,
 Woolworths,-37.6875423,144.8849079,Gladstone Park,3043,34 Gladstone Park Drive
-Fairway Market Shelbourne Plaza,48.4601309,-123.3319591,Victoria,V8P 4H1,3651 Shelbourne Street
 IGA,-37.5821232,144.7288356,No Suburb,No Postcode,
 Woolworths,-37.7577207,145.3136509,Chirnside Park,3116,239-241 Maroondah Highway
 Woolworths,-37.8120412,145.2284585,Ringwood,3134,171-175 Maroondah Highway
@@ -260,7 +253,6 @@ Woolworths,-37.8294287,145.058971,No Suburb,No Postcode,
 Coles,-37.8291542,145.0563202,No Suburb,No Postcode,4-14 Burke Avenue
 ALDI,-37.7487656,145.0407238,No Suburb,3081,318 Bell Street
 Heidelberg IGA,-37.7491071,145.0426739,No Suburb,3081,28-32 The Mall
-Grande Campestre,23.7632871,-99.1408566,No Suburb,No Postcode,
 IGA X-press,-38.3611907,144.778608,No Suburb,No Postcode,
 Unnamed Supermarket,-37.985339,145.2392158,No Suburb,No Postcode,
 Aunt Maggies,-37.806295,144.981009,Fitzroy,3065,188 Gertrude Street
@@ -275,7 +267,6 @@ ALDI,-37.7263093,144.8066275,No Suburb,No Postcode,80 Taylors Road
 Woolworths,-38.0770591,145.2496865,No Suburb,No Postcode,
 Woolworths,-38.0770815,145.4836573,No Suburb,No Postcode,
 Woolworths,-38.4531708,145.2397764,Cowes,3922,117-133 Thompson Avenue
-Save-On-Foods,48.4326456,-123.380311,No Suburb,V9A 7N6,172 Wilson Street
 Coles,-37.9654121,145.1730576,No Suburb,No Postcode,1-5 Douglas Street
 Woolworths,-38.5642828,146.6769556,No Suburb,No Postcode,
 KFL Supermarkets,-37.7887106,145.1610286,No Suburb,3109,1029 Doncaster Road
@@ -307,9 +298,6 @@ Flinders General Store,-38.4736857,145.0169384,No Suburb,No Postcode,
 Piedimonte's IGA,-37.7392053,144.9467635,Pascoe Vale,3044,Bell Street
 Coles,-37.0234963,145.1337096,No Suburb,No Postcode,20 Tallarook Street
 ALDI,-37.6998024,145.058831,No Suburb,No Postcode,584-604 Grimshaw Street
-MEGA Comercial Mexicana,23.7516206,-99.139238,No Suburb,No Postcode,
-H-E-B,23.7576902,-99.1415039,No Suburb,No Postcode,
-Soriana,23.7542239,-99.1496471,No Suburb,No Postcode,
 Elwood Supermarket,-37.8808894,144.9915674,No Suburb,No Postcode,
 ALDI,-37.8650285,144.9877554,No Suburb,No Postcode,135 Inkerman Street
 Coles,-38.0522568,145.2568486,No Suburb,No Postcode,75 Lynbrook Boulevard
@@ -340,7 +328,6 @@ ALDI,-38.1697376,144.3922925,No Suburb,No Postcode,
 Woolworths,-38.1698198,144.3932902,No Suburb,No Postcode,
 Woolworths,-38.1685801,144.3885481,No Suburb,No Postcode,
 Woolworths,-37.2825217,142.9271172,No Suburb,No Postcode,
-Supermercado Ahorro,-38.2353555,-72.3323966,Victoria,4720000,1210 Confederación Suiza
 NQR,-38.0229886,145.3049547,No Suburb,No Postcode,
 Coles,-37.8732777,144.7759322,No Suburb,No Postcode,1-23 Central Avenue
 Woolworths,-38.0896434,144.3371719,No Suburb,No Postcode,
@@ -349,11 +336,10 @@ Supa IGA Thomastown,-37.6777574,144.9989322,No Suburb,3074,122 Main Street
 Coles,-37.7824349,144.9148103,No Suburb,No Postcode,320-380 Epsom Road
 ALDI,-38.2230476,145.0403197,No Suburb,No Postcode,M02 Main Street
 Bittern IGA,-38.3366826,145.1770695,No Suburb,No Postcode,
-Unnamed Supermarket,-37.9232123,145.166114,No Suburb,No Postcode,
+IGA,-37.9232123,145.166114,No Suburb,No Postcode,
 IGA,-37.9807237,146.7865174,No Suburb,No Postcode,
 Coles,-37.7587406,144.7901048,No Suburb,No Postcode,
 IGA X-press plus Liquor,-37.804482,144.966104,Carlton,3053,109 Lygon Street
-Agranel Aguadilla,18.4098029,-67.1542719,Aguadilla,00603,Avenida Victoria
 Coles,-37.9347488,145.1568383,No Suburb,No Postcode,819-829 Princes Highway
 Rosedale IGA,-38.1517212,146.7882204,No Suburb,No Postcode,
 ALDI,-37.7617795,145.1696944,No Suburb,No Postcode,181 Reynolds Road
@@ -456,7 +442,6 @@ ALDI,-37.6748983,144.4392753,No Suburb,No Postcode,158-196 Main Street
 IGA,-37.6594691,144.4411647,No Suburb,No Postcode,
 Foodworks,-36.4202837,143.6136597,Wedderburn,3518,15 Kerr Street
 ALDI,-37.6594053,145.0298308,No Suburb,No Postcode,347-371 Dalton Road
-Lifestyle Markets Health Foods,48.4433411,-123.370379,Victoria,V8T 4N4,2950 Douglas Street
 Tân Mỹ,-37.799386,144.8998,No Suburb,No Postcode,77 Nicholson Street
 Foodworks,-37.7237903,144.9469242,Pascoe Vale,3044,173 Derby Street
 Orbost IGA X-press plus Liquor,-37.7050097,148.4556723,Orbost,3888,137 Nicholson Street
@@ -486,7 +471,6 @@ Champion's IGA,-38.2077503,144.3290327,No Suburb,No Postcode,
 Foodworks,-38.0861344,144.3519234,No Suburb,No Postcode,
 IGA,-37.7160681,145.0051747,No Suburb,No Postcode,
 Woolworths,-37.7296798,144.9835419,No Suburb,No Postcode,
-Thrifty Foods,48.4128555,-123.337763,No Suburb,V8S 1G1,1590 Fairfield Road
 NQR,-36.8118377,144.241172,No Suburb,3555,293 High Street
 ALDI,-37.8556553,145.1823871,No Suburb,No Postcode,495 Burwood Highway
 Crown Asian Supermarket,-37.8147623,144.9519191,No Suburb,No Postcode,
@@ -506,7 +490,6 @@ Science Store,-37.9109319,145.1302193,No Suburb,No Postcode,
 Coles,-37.7976134,144.8061424,No Suburb,No Postcode,136 The Avenue
 KFL Supermarkets,-37.8818907,145.2334277,No Suburb,No Postcode,
 Woolworths,-37.8353274,144.8466274,No Suburb,No Postcode,
-Profi,45.3817393,27.0426827,No Suburb,125300,- Strada Victoriei
 IGA,-37.7638231,145.0547001,Eaglemont,3084,Silverdale Road
 ALDI,-36.119091,146.8815944,No Suburb,No Postcode,72 Elgin Boulevard
 Woolworths Metro,-37.81666,144.8916701,Yarraville,3013,4-6 Anderson Street
@@ -515,8 +498,6 @@ ALDI,-38.2249896,145.1774728,No Suburb,No Postcode,1089-109 Frankston-Flinders R
 ALDI,-37.8846726,145.0588846,Carnegie,3163,2-18 Koornang Road
 IGA,-36.3591971,146.6859146,No Suburb,No Postcode,
 Foodworks,-36.3127237,146.8397138,No Suburb,No Postcode,
-Food Lion,36.9872048,-78.2190862,No Suburb,No Postcode,
-Soriana,23.7367194,-99.1333031,No Suburb,No Postcode,
 Coles,-37.8117934,145.2299716,Ringwood,3134,Maroondah Highway
 Woolworths,-37.867388,144.7424967,No Suburb,No Postcode,
 Aldi,-37.9859544,145.2167401,No Suburb,No Postcode,
@@ -526,7 +507,6 @@ Woolworths,-37.8742111,144.6773257,No Suburb,No Postcode,
 Woolworths,-37.862377,144.6871827,No Suburb,No Postcode,
 Woolworths,-37.7771492,145.4590878,Seville,3139,568 Warburton Highway
 FoodWorks,-37.7011658,145.0720957,No Suburb,No Postcode,
-Unimarc,-38.2362079,-72.3336009,Victoria,4720359,1354 Pisagua
 Woolworths,-38.005338,145.248277,No Suburb,No Postcode,
 Coles,-37.849012,144.7037194,No Suburb,No Postcode,380 Sayers Road
 ALDI,-37.8490479,144.7053019,No Suburb,No Postcode,380 Sayers Road
@@ -577,7 +557,6 @@ IGA,-37.784938,144.9385839,No Suburb,No Postcode,
 Coles,-37.8013978,144.897529,No Suburb,No Postcode,16A Albert Street
 Woolworths,-37.8843527,144.7344038,No Suburb,No Postcode,
 Local Grocer - IGA,-37.8296604,144.8858342,No Suburb,No Postcode,
-Superbodega Acuenta,-38.2336871,-72.3433816,Victoria,4720000,240 Avenida Bernardo O'Higgins
 ALDI,-37.8458636,144.9935728,No Suburb,No Postcode,34 Elizabeth Street
 Foodworks,-37.9807957,145.1658175,No Suburb,No Postcode,
 IGA Local Grocer,-38.2683649,144.6608618,Queenscliff,3225,75 Hesse Street
@@ -592,7 +571,6 @@ Shahi India,-37.8646311,145.0281237,No Suburb,No Postcode,
 Woolworths,-38.1685756,144.5451168,No Suburb,No Postcode,
 Foodworks,-37.0515675,146.0866578,Mansfield,3722,119 High Street
 Tormey's IGA plus liquor,-36.2684509,143.3490755,No Suburb,No Postcode,
-Supermercado El Trébol,-38.2353129,-72.3319125,Victoria,No Postcode,1227 Confederación Suiza
 ALDI,-37.7912353,145.0947384,No Suburb,No Postcode,313 Doncaster Road
 KT Mart Asian Grocery,-37.8160472,145.1934578,No Suburb,No Postcode,515 Maroondah Highway
 ALDI,-37.8718502,144.7751035,No Suburb,No Postcode,1 Central Avenue
@@ -604,7 +582,6 @@ Woolworths,-37.8405629,145.0081654,No Suburb,No Postcode,
 Springvale South SUPA IGA,-37.97202,145.1497316,No Suburb,No Postcode,
 Woolworths,-37.8400099,144.6738163,No Suburb,No Postcode,
 Hindustan Wholesale & Retail Groceries,-38.0161502,145.224631,No Suburb,No Postcode,50 Greens Road
-Bulk Barn,48.4264224,-123.364358,No Suburb,No Postcode,706 Yates Street
 Continental Supermarket,-37.7879567,144.9992427,No Suburb,3068,58 Spensley Street
 IGA,-38.1258028,146.5732949,No Suburb,No Postcode,
 Dyson's IGA Supermarket,-36.0884972,145.4421023,No Suburb,No Postcode,
@@ -618,11 +595,9 @@ Coles,-38.1191101,145.3205054,No Suburb,No Postcode,
 IGA,-37.9139878,145.2570252,No Suburb,No Postcode,
 The Monash Merchant,-37.9118936,145.1359711,No Suburb,No Postcode,
 Warrnambool Supa IGA & Liquor,-38.3843271,142.4793343,No Suburb,No Postcode,
-Cecinas Staub,-38.2334222,-72.3349652,No Suburb,No Postcode,
 Mediterranean Wholesalers,-37.7665945,144.9623678,No Suburb,No Postcode,482 Sydney Road
 Woolworths,-37.8196524,145.1213954,No Suburb,No Postcode,
 Balmoral Community Store,-37.2476232,141.8408747,No Suburb,No Postcode,Natimuk - Hamilton Road
-Soriana Tamatan,23.7230832,-99.1610697,No Suburb,No Postcode,
 Woolworths,-36.7754017,144.3061077,No Suburb,No Postcode,
 Paradise Food City,-37.7170098,145.0111349,No Suburb,No Postcode,
 Unnamed Supermarket,-37.7171493,145.009976,No Suburb,No Postcode,
@@ -656,7 +631,6 @@ IGA,-36.7954253,144.2431058,No Suburb,3555,20 Carpenter Street
 ALDI,-36.7972399,144.2432579,No Suburb,3555,Lockwood Road
 ALDI,-37.7731793,145.1118816,No Suburb,No Postcode,299-301 Manningham Road
 LH Supermarket,-37.9741894,145.2017448,No Suburb,No Postcode,
-El Correntino,-32.6008816,-60.1741952,No Suburb,No Postcode,
 India At Home,-37.9240319,145.1204953,No Suburb,No Postcode,131-133 Carinish Road
 Coles,-38.3410762,143.5940289,No Suburb,No Postcode,140 Bromfield Street
 Smart Supermarket,-37.7656708,145.0919275,No Suburb,No Postcode,
@@ -680,7 +654,6 @@ MJ Butcher Fruit Veg,-37.9868238,145.2147653,No Suburb,No Postcode,9 Langhorne S
 Woolworths Metro,-37.8166713,144.9645325,No Suburb,No Postcode,
 Coles,-36.1202037,146.8888404,No Suburb,No Postcode,1-13 South Street
 Woolworths,-36.1210509,146.8867459,No Suburb,No Postcode,
-El Nuevo Siglo,-32.6207889,-60.1498045,No Suburb,No Postcode,
 Koh's Market Place,-37.9718495,145.1497789,No Suburb,No Postcode,
 Trường Giang Grocery,-37.9715195,145.1490246,No Suburb,No Postcode,
 Mekong Groceries,-37.9717702,145.1496318,No Suburb,No Postcode,162 Athol Road
@@ -705,8 +678,6 @@ Queenscliff General Store,-38.2696413,144.6547677,No Suburb,No Postcode,
 Kew Friendly Supermarket,-37.7960183,145.0354729,Kew,3101,81A Willsmere Road
 IGA,-38.4043593,144.1900356,No Suburb,No Postcode,
 Altona IGA,-37.8658492,144.8306619,Altona,3018,103 Pier Street
-Supermercado El Triunfo,-32.6220942,-60.1623278,No Suburb,No Postcode,Laprida
-Dia,-32.622462,-60.1537607,No Suburb,No Postcode,9 de Julio
 Mt Dandenong IGA,-37.8479014,145.3607598,No Suburb,No Postcode,
 4 Cousins,-37.997159,145.0844063,Parkdale,3195,363-383 Nepean Highway
 Frozen Mart,-37.950287,145.1509854,No Suburb,No Postcode,
@@ -736,7 +707,6 @@ Mrs Wan's Asian Mart Cranbourne,-38.1116346,145.2825114,No Suburb,No Postcode,47
 Cranbourne Fresh Food Centre,-38.1122855,145.2832774,No Suburb,No Postcode,
 Casey Asian Mart,-38.1103105,145.2830502,No Suburb,No Postcode,
 Foodmart Kinglake,-37.5317776,145.3409378,No Suburb,No Postcode,
-Island Afrikan Supermarket,48.4399275,-123.35941,No Suburb,No Postcode,
 IGA,-37.0858706,143.4738061,No Suburb,No Postcode,
 IGA,-37.7787245,144.9764299,No Suburb,No Postcode,
 Bestow,-37.7824013,144.8335996,No Suburb,No Postcode,
@@ -765,11 +735,8 @@ Magid Afghan Supermarket,-37.7436146,144.9663291,No Suburb,No Postcode,414 Sydne
 Friendly Cellars,-37.8987131,145.0908689,No Suburb,No Postcode,
 Foodworks,-36.8636475,147.2813624,No Suburb,No Postcode,
 ALDI,-38.3105508,144.3180793,No Suburb,No Postcode,14-18 Winki Way
-Ziegler,-32.6234387,-60.1533933,No Suburb,No Postcode,
-Bussi,-32.623685,-60.1552695,No Suburb,No Postcode,
 Foodworks,-37.8868099,145.0222932,No Suburb,No Postcode,
 IGA,-37.9547495,145.0255753,No Suburb,No Postcode,
-Red Barn Market,48.4171829,-123.3726684,Victoria,V8V 0C2,325 Menzies Street
 ALDI,-38.3804013,142.5208813,No Suburb,No Postcode,154 Raglan Parade
 Hyper Panda,-37.7620906,144.962826,No Suburb,No Postcode,641 Sydney Road
 Asian Taiwanese Grocery,-37.8202579,145.1261152,No Suburb,No Postcode,
@@ -783,7 +750,6 @@ Seoul Grocery,-37.8193264,145.1245932,No Suburb,No Postcode,
 IGA,-37.9922245,145.1454752,No Suburb,No Postcode,
 ALDI,-37.9925183,145.145781,No Suburb,No Postcode,466-468 Cheltenham Road
 Woolworths,-37.7963605,144.940678,No Suburb,No Postcode,
-BC Ale trail,48.4384173,-123.3699678,No Suburb,No Postcode,
 IGA,-36.4944144,144.608814,No Suburb,No Postcode,
 ALDI,-37.8305497,145.058844,No Suburb,No Postcode,15-25 Station Street
 Woolworths Metro,-37.8630952,145.0101814,No Suburb,No Postcode,
@@ -831,7 +797,6 @@ Yahweh,-37.764606,144.9218945,No Suburb,No Postcode,
 Andrew Street Grocer,-37.8572274,145.1237031,No Suburb,No Postcode,
 Wyndham Harbour Mini Mart,-37.965617,144.7066647,No Suburb,No Postcode,
 IGA Point Cook,-37.8990016,144.7398241,No Suburb,No Postcode,
-Unnamed Supermarket,54.8101133,17.8313336,No Suburb,No Postcode,
 Orlando's,-37.7864014,145.1067413,No Suburb,No Postcode,
 Coles,-38.2277511,144.3399292,No Suburb,No Postcode,
 Grocer eez,-37.8699778,144.7314209,No Suburb,No Postcode,428 Old Geelong Road
@@ -855,15 +820,12 @@ Boundy's Supa IGA,-37.754983,144.8971477,No Suburb,No Postcode,
 Pascoe Vale Mini Mart,-37.7307393,144.9387095,No Suburb,No Postcode,
 IGA,-37.7200923,144.9405948,Pascoe Vale,3044,110-112 Kent Road
 Coles,-37.7227961,144.6701494,No Suburb,No Postcode,
-Soriana,23.7493984,-99.1406825,No Suburb,No Postcode,
 ALDI,-38.0942353,145.3333701,No Suburb,No Postcode,
-ALDI,28.8448405,-96.9985163,Victoria,77904,5312 North Navarro Street
 ALDI,-37.8742285,144.6782325,No Suburb,No Postcode,
 Daly's IGA,-38.2916088,142.3642103,Koroit,3282,150 Commercial Road
 Aldi,-37.7151535,144.8842921,No Suburb,No Postcode,
 ALDI,-37.6875338,144.8843357,No Suburb,No Postcode,8-34 Gladstone Park Drive
 ALDI,-37.5946365,144.9143905,No Suburb,No Postcode,340 Craigieburn Road
-Profi,45.7297003,24.7019407,No Suburb,No Postcode,
 Woolworths,-38.3576144,142.4451446,Dennington,3280,Raglan Parade
 Ecopact Groceries,-37.8029415,144.8988455,Footscray,3011,208 Nicholson Street
 IGA Coleraine,-37.5980069,141.6905031,No Suburb,No Postcode,
@@ -889,7 +851,6 @@ NQR,-38.110829,145.2821454,No Suburb,No Postcode,
 Balwyn North Asian Supermarket,-37.7930241,145.0721899,No Suburb,No Postcode,
 IGA,-37.3479587,144.7414332,No Suburb,No Postcode,
 Coles,-34.2108266,142.1396072,Mildura,3500,832 Fifteenth Street
-Save-On-Foods,48.4274875,-123.355612,No Suburb,No Postcode,1010 Pandora Avenue
 Friendly Grocer,-37.8305437,145.2438058,Heathmont,3135,163 Canterbury Road
 IGA,-37.8277952,145.2471846,Heathmont,3135,116-120 Canterbury Road
 ALDI,-37.7934467,145.2785468,Croydon,3136,5-15 Kent Avenue
@@ -919,13 +880,11 @@ Foodworks,-37.7251379,145.3790863,Coldstream,3770,670-672 Maroondah Highway
 Traralgon Asian Groceries,-38.1962636,146.5404186,Traralgon,3850,2 Seymour Street
 ABC Supermarket,-37.8266695,145.2561383,Heathmont,3135,30 Canterbury Road
 Korean World,-37.8206728,145.1240988,No Suburb,No Postcode,4 Ellingworth Parade
-Tina,-34.4618987,-58.5630935,No Suburb,No Postcode,
 Cam Ngoc Asian Grocery,-37.7985575,144.8172299,No Suburb,No Postcode,
 IGA,-37.7985236,144.8177624,No Suburb,No Postcode,
 Om Sevvel Indian Store,-37.8161719,145.2258226,Ringwood,3134,107 Maroondah Highway
 The South African Shop,-37.757048,145.1281259,Templestowe,3106,112 James Street
 Naturally On High,-37.7597333,145.0002691,Thornbury,3071,697-699 High Street
-Suerte,-34.4629096,-58.5680912,Victoria,B1644,
 IGA,-37.8120235,145.2516228,Ringwood East,3135,82-90 Railway Avenue
 Chinland Asian Grocery,-37.812436,145.2499075,Ringwood East,3135,52 Railway Avenue
 Foodworks,-37.6813787,145.0253087,No Suburb,3074,126 Alexander Avenue
@@ -962,7 +921,6 @@ IGA,-37.5596167,143.8852747,No Suburb,No Postcode,200 Victoria Street
 Srini's Ceylon Madura,-37.8821544,145.1092559,No Suburb,No Postcode,422 Huntingdale Road
 ALDI,-37.941289,145.1683577,No Suburb,No Postcode,754-768 Princes Highway
 Strathfieldsaye Champions IGA,-36.8055696,144.3572257,No Suburb,3551,939 Wellington Road
-Dalisay,15.576821,120.6844135,No Suburb,No Postcode,
 Dockendorf Grocer,-37.9043418,144.9982759,No Suburb,No Postcode,12 Cochrane Street
 Bayswater Fresh,-37.8428677,145.267082,No Suburb,No Postcode,
 Mr. Dad Super Market,-37.8062642,144.9617649,No Suburb,No Postcode,
@@ -970,7 +928,6 @@ Tan Huang Asian Grocer,-37.8196347,145.1225176,No Suburb,No Postcode,
 Persian Halal Butchery & Grocery,-37.7883914,145.149426,No Suburb,No Postcode,
 Fawkner Express Grovery Store,-37.8385464,144.9769345,Melbourne,3004,431 St Kilda Road
 IGA X-press,-37.8176845,144.9583477,No Suburb,No Postcode,
-suBodega!,23.7192353,-99.1283085,No Suburb,No Postcode,
 IGA - Greenvale,-37.6389263,144.8804683,No Suburb,No Postcode,
 Coles,-37.8784912,145.0923339,Ashwood,No Postcode,695 Warrigal Road
 Woolworths Metro,-37.8072174,144.943022,No Suburb,No Postcode,
@@ -991,7 +948,6 @@ Foodworks,-37.9360111,145.0612301,East Bentleigh,3165,293 Chesterville Road
 Big Watermelon,-37.8748714,145.2053244,No Suburb,No Postcode,
 Claremont Supermarket,-37.8383107,144.9935719,No Suburb,No Postcode,3 - 7 Claremont Street
 Montrose IGA,-37.8106287,145.3431529,No Suburb,No Postcode,
-Urban Grocer,48.4270968,-123.335471,No Suburb,No Postcode,
 Bivihome,-37.7662487,145.0299719,No Suburb,3071,351 Darebin Road
 ALDI,-37.9772167,145.2586075,No Suburb,No Postcode,
 Coles,-37.8386433,144.9417288,No Suburb,No Postcode,
@@ -1007,7 +963,6 @@ NQR,-37.8183945,145.1204943,No Suburb,No Postcode,
 Foodworks,-37.883565,144.689379,Hoppers Crossing,3029,70 Warringa Crescent
 Foodworks,-38.197436,146.5237592,No Suburb,No Postcode,
 Foodworks,-37.8204789,145.1052753,No Suburb,No Postcode,
-Unnamed Supermarket,-34.4555483,-58.5405101,No Suburb,No Postcode,
 Morgan's IGA,-37.7921897,144.7895016,No Suburb,No Postcode,
 Pantre,-37.810497,144.9621678,No Suburb,No Postcode,
 Hometown Grocer,-37.8103363,144.963081,No Suburb,No Postcode,
