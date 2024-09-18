@@ -1,5 +1,5 @@
-# Project 4 Meeting 4 Minutes
-Minutes (10/09/2024 Tuesday 2:15pm)
+# Project 4 Meeting 5 Minutes
+Minutes (17/09/2024 Tuesday 2:15pm)
 
 ## Group 12 Members: 
 1. Julian Bonitz (1067373)
