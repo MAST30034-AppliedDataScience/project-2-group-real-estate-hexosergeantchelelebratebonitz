@@ -8,16 +8,15 @@ Minutes (26/09/2024 Tuesday 2:15pm)
 4. Aarav Nair (1287210)
 
 ## Agenda:
-* Find longtitude and latitude data from Street Address
-* Find location of public transport stops
-* Find proximity values for properties to public transport
-* Preprocess data
+* Finish 3 year model
+* Summary notebook
 
 ## To-do Next:
-* Aarav: Income/Population by SA2 instead of suburb. 
+* Aarav: Income/Population by SA2 instead of suburb.  Forcast 2024, 2025, 2026 for both population and income.
+* Can and Julian: Create a model to predict rental prices (2018, 2019, 2020, 2021, 2022, 2023)
 
 ## Signed: 
-All members were present on Tuesday 17/09/2024:
+4 members were present on 23/09/2024:
 1. Julian Bonitz (1067373)
 2. Can Senyurt (1079752)
 3. Michele Sembiring Meliala (1342923)
