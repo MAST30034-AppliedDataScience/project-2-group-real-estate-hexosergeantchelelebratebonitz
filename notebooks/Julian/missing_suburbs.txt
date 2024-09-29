@@ -80,8 +80,6 @@ Doreen - South
 Doveton
 Drouin
 Emerald - Cockatoo
-Epping - East
-Epping - South
 Euroa
 Eynesbury - Exford
 Flemington Racecourse
@@ -92,6 +90,7 @@ Fraser Rise - Plumpton
 French Island
 Gannawarra
 Gisborne
+Glen Iris - East
 Glenelg (Vic.)
 Golden Plains - North
 Golden Plains - South
@@ -166,7 +165,6 @@ Moyne - West
 Myrtleford
 Nagambie
 Nhill Region
-Niddrie - Essendon West
 Norlane
 Numurkah
 Orbost
