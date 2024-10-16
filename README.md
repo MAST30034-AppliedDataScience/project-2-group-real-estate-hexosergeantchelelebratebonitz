@@ -2,7 +2,6 @@
 - Names: `Aarav Nair`, `Can Senyurt`, `Julian Bonitz`, `Michele Sembiring Meliala`
 - Student ID: `1287210`, `1079752`, `1067373`, `1342923` (Respectively)
 
-
 **Research Goal:** Predict suburb rental price growth rate and Victorian rental market analysis.
 
 **Target Audience:** Real estate investors and potential renters.
